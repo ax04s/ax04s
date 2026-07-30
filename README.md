@@ -1,18 +1,16 @@
 <div align="center">
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ax04s/ax04s/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ax04s/ax04s/main/light.svg">
+  <img alt="Ayham Al-Salem" src="https://raw.githubusercontent.com/ax04s/ax04s/main/light.svg">
+</picture>
 
-# Ayham Al-Salem
-
-### Founder, AxentriX — Building AI-Powered Business Infrastructure
-
-Full-stack systems for businesses that need more than a website: client portals, dashboards, and automation, built end-to-end.
-
-<br>
+<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ax04s)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ax04s)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@axentrix.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayhamsalem@gmail.com)
 
 </div>
 
@@ -102,6 +100,6 @@ Real estate platform with a full brand identity system.
 
 <div align="center">
 
-[Portfolio](https://ax04s.netlify.app) · [LinkedIn](https://linkedin.com/in/ax04s) · [Instagram](https://instagram.com/ax04s) · [Email](mailto:contact@axentrix.com)
+[Portfolio](https://ax04s.netlify.app) · [LinkedIn](https://linkedin.com/in/ax04s) · [Instagram](https://instagram.com/ax04s) · [Email](mailto:ayhamsalem@gmail.com)
 
 </div>
