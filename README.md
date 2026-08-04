@@ -53,7 +53,7 @@ My work is centered on one idea: a business needs more than a website — it nee
 **[AX](https://github.com/ax04s/AX)**
 Official AxentriX production platform.
 
-**Portfolio**
+**[Portfolio](https://github.com/ax04s/Portfolio)**
 Personal engineering portfolio and CV.
 
 **[AxentriX](https://github.com/ax04s/Axentrix)**
@@ -116,7 +116,7 @@ Real estate platform with a full brand identity system.
   <img src="https://img.shields.io/badge/Instagram-050810?style=for-the-badge&logo=instagram&logoColor=818CF8&labelColor=050810" alt="Instagram" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:ayhamsalem@gmail.com">
+<a href="mailto:ayhamsalem45@gmail.com">
   <img src="https://img.shields.io/badge/Email-050810?style=for-the-badge&logo=gmail&logoColor=00D4FF&labelColor=050810" alt="Email" />
 </a>
 
