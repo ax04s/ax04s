@@ -2,9 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ax04s/ax04s/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ax04s/ax04s/main/light.svg">
-  <img alt="Ayham Al-Salem" src="https://raw.githubusercontent.com/ax04s/ax04s/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ax04s/ax04s/main/dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ax04s/ax04s/main/light.svg?v=2">
+  <img alt="Ayham Al-Salem" src="https://raw.githubusercontent.com/ax04s/ax04s/main/light.svg?v=2">
 </picture>
 
 <!-- ===== ABOUT ===== -->
