@@ -53,7 +53,7 @@ My work is centered on one idea: a business needs more than a website — it nee
 **[AX](https://github.com/ax04s/AX)**
 Official AxentriX production platform.
 
-**Portfolio**
+**[Portfolio](https://github.com/ax04s/Portfolio)**
 Personal engineering portfolio and CV.
 
 **[AxentriX](https://github.com/ax04s/Axentrix)**
