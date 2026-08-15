@@ -67,7 +67,7 @@ Real estate platform with a full brand identity system.
 <div align="center">
 
 <!-- Streak — full width -->
-<img width="100%" src="https://streak-stats.demolab.com/?user=ax04s&hide_border=true&background=050810&stroke=00D4FF&ring=818CF8&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=00D4FF&card_width=1180" alt="Ayham's streak" />
+<img width="100%" src="https://raw.githubusercontent.com/ax04s/ax04s/main/profile-summary-card-output/streak-stats.svg" alt="Ayham's streak" />
 
 <br/>
 
