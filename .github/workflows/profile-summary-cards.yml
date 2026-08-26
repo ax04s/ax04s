@@ -22,7 +22,7 @@ jobs:
       - name: Generate Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ax04s
           BRANCH_NAME: main
@@ -31,7 +31,7 @@ jobs:
       - name: Fetch and Cache Streak Stats SVG
         run: |
           mkdir -p profile-summary-card-output
-          curl -s --retry 5 --retry-delay 3 --max-time 30 --connect-timeout 10 --retry-on-timeout "https://streak-stats.demolab.com/?user=ax04s&hide_border=true&background=050810&stroke=00D4FF&ring=818CF8&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=00D4FF&card_width=1180" -o profile-summary-card-output/streak-stats.svg
+          curl -s --retry 5 --retry-delay 3 --retry-all-errors --max-time 30 --connect-timeout 10 "https://streak-stats.demolab.com/?user=ax04s&hide_border=true&background=050810&stroke=00D4FF&ring=818CF8&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=00D4FF&card_width=1180" -o profile-summary-card-output/streak-stats.svg
           if grep -q "<svg" profile-summary-card-output/streak-stats.svg; then
             echo "Streak SVG successfully fetched."
             date > profile-summary-card-output/streak-stats-timestamp.txt
