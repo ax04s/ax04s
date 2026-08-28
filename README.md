@@ -50,14 +50,12 @@ My work is centered on one idea: a business needs more than a website — it nee
 
 ## Featured Projects
 
-**[AX](https://github.com/ax04s/AX)**
+**[Axentrix-MVP](https://github.com/ax04s/Axentrix-MVP)**
 Official AxentriX production platform.
 
 **[Portfolio](https://github.com/ax04s/Portfolio)**
 Personal engineering portfolio and CV.
 
-**[AxentriX](https://github.com/ax04s/Axentrix)**
-Brand strategy and product roadmap for the agency.
 
 **[Salem Elite Realty](https://github.com/ax04s/salem-elite-realty)**
 Real estate platform with a full brand identity system.
